@@ -12,12 +12,6 @@ I build web and mobile apps and integrate AI into products.
 - AI integration
 - Open-source bug fixes and regression tests
 
-## Open source
-
-**[TanStack Query — PR #12130](https://github.com/TanStack/query/pull/12130)**
-
-Submitted a fix for Suspense queries failing with `Missing queryFn` after cache recreation, with regression tests for successful fetches and error handling.
-
 ## Work together
 
 For freelance projects or collaboration, reach out on [LinkedIn](https://www.linkedin.com/in/yuki-morikawa-2b377141b/).
